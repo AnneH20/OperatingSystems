@@ -1,0 +1,3 @@
+/media/SharedFiles/Lab6/build/CMakeFiles/TLB_MMU_Simulation.dir
+/media/SharedFiles/Lab6/build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab6/build/CMakeFiles/rebuild_cache.dir

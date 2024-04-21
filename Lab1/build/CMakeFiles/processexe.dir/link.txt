@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/processexe.dir/src/main.cpp.o -o processexe  -Wl,-rpath,/media/SharedFiles/Lab1/build libprocesslib.so 

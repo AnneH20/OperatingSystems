@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/os_signals.dir/src/main.cpp.o -o os_signals 

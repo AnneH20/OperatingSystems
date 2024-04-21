@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/cpuexe.dir/src/main.cpp.o -o cpuexe  -Wl,-rpath,/media/SharedFiles/lab2/build libcpulib.so 

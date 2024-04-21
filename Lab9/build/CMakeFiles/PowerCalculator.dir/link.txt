@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PowerCalculator.dir/src/power_calculator.cpp.o CMakeFiles/PowerCalculator.dir/src/main.cpp.o -o PowerCalculator 

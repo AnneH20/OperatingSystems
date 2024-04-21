@@ -1,0 +1,4 @@
+/media/SharedFiles/lab2/build/CMakeFiles/cpulib.dir
+/media/SharedFiles/lab2/build/CMakeFiles/cpuexe.dir
+/media/SharedFiles/lab2/build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/lab2/build/CMakeFiles/rebuild_cache.dir

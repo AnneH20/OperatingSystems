@@ -1,0 +1,7 @@
+/media/SharedFiles/Lab1/build/CMakeFiles/processlib.dir
+/media/SharedFiles/Lab1/build/CMakeFiles/processexe.dir
+/media/SharedFiles/Lab1/build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab1/build/CMakeFiles/rebuild_cache.dir
+/media/SharedFiles/Lab1/build/tests/CMakeFiles/ProcessExampleTests.dir
+/media/SharedFiles/Lab1/build/tests/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab1/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/media/SharedFiles/Lab5/build/CMakeFiles/Lab7.dir
+/media/SharedFiles/Lab5/build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab5/build/CMakeFiles/rebuild_cache.dir
+/media/SharedFiles/Lab5/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab5/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

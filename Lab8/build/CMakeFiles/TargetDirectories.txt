@@ -1,0 +1,3 @@
+/media/SharedFiles/Lab8/build/CMakeFiles/ThreadContextSwitchCounter.dir
+/media/SharedFiles/Lab8/build/CMakeFiles/edit_cache.dir
+/media/SharedFiles/Lab8/build/CMakeFiles/rebuild_cache.dir

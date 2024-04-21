@@ -1,0 +1,1 @@
+/usr/bin/c++  -g CMakeFiles/Lab7.dir/src/main.cpp.o CMakeFiles/Lab7.dir/src/AddressTranslator.cpp.o CMakeFiles/Lab7.dir/src/ConfigParser.cpp.o CMakeFiles/Lab7.dir/src/Segment.cpp.o CMakeFiles/Lab7.dir/src/Memory.cpp.o -o Lab7 
